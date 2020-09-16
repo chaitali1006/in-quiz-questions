@@ -43,7 +43,7 @@
 - [*] stacking
 
 #### Q08. ____looks at the relationship between predictors and your outcome.
-- [ ] Regression analysis
+- [*] Regression analysis
 - [ ] K-means clustering
 - [ ] Big data
 - [ ] Unsupervised learning
@@ -56,7 +56,7 @@
 
 #### Q10. What does this image illustrate?
 ![Machine Learning Q10](images/machine-learning_Q10.jpg)
-- [ ] a decision tree
+- [*] a decision tree
 - [ ] reinforcement learning
 - [ ] K-nearest neighbor
 - [ ] a clear trendline
@@ -68,7 +68,7 @@
 - [ ] By using machine learning algorithms, you are creating an IoT device.
 
 #### Q12. To predict a quantity value. use ____.
-- [ ] regression
+- [*] regression
 - [ ] clustering
 - [ ] classification
 - [ ] dimensionality reduction
@@ -88,7 +88,7 @@
 
 #### Q15. How is machine learning related to artificial intelligence?
 - [ ] Artificial intelligence focuses on classification, while machine learning is about clustering data.
-- [ ] Machine learning is a type of artificial intelligence that relies on learning through data.
+- [*] Machine learning is a type of artificial intelligence that relies on learning through data.
 - [ ] Artificial intelligence is form of unsupervised machine learning.
 - [ ] Machine learning and artificial intelligence are the same thing.
 
@@ -108,7 +108,7 @@
 ![Machine Learning Q18](images/machine-learning_Q18.jpg)
 - [ ] Training Set
 - [ ] Unsupervised Data
-- [ ] Supervised Learning
+- [*] Supervised Learning
 - [ ] Binary Classification
 
 #### Q19. What is one reason not to use the same data for both your training set and your testing set?
